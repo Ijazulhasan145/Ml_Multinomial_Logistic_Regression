@@ -1,0 +1,1 @@
+Logisic Regressic: it is apply for linear data.  But by using Polynomail technique we can eaily perform no linear data to get his output. 
